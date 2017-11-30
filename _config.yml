@@ -55,5 +55,5 @@ owner:
     analytics:
     verify:
     ad-client: ca-pub-6120860742836119
-    ad-slot:
+    ad-slot: true
   bing-verify:
