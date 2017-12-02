@@ -52,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-110572798-1
     verify:
     ad-client: ca-pub-6120860742836119
     ad-slot: true
